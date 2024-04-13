@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# A bit about me
+## A bit about me
 
 I started working on computers at a time when they didn't necessarily come with an operating system. I work on hardware
 and software projects, depending on the client or day.
