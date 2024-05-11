@@ -9,7 +9,7 @@ We had a day off on Thursday this week - Ascension day in English and Auffahrt i
 
 This combined with the [DIRT Racing Series](http://www.dirtracingseries.com/) going into our "off season" (e.g. Summer) when we won't have regular races going and I don't need to worry so much about keeping our system stable. I've started looking at how to get the code base into better shape and undo all the horrible hacks I've put in place to patch in one or another great idea we've come up with to adjust the rules in the middle of the season.
 
-One first step in this was to extract the logic used to access Zwift from the main code base. I had a nudget to do this from the [Zwiftracing.app](http://zwiftracing.app/) discord server where someone on the API chat was looking for Python code to talk to [Zwiftpower](http://www.zwiftpower.com/). I'd spent a good chunk of last summer figuring out how to finally get this working reliably and it was almost in good
+One first step in this was to extract the logic used to access [Zwift](http://www.zwift.com/) from the main code base. I had a nudge to do this from the [Zwiftracing.app](http://zwiftracing.app/) discord server where someone on the API chat was looking for Python code to talk to [Zwiftpower](http://www.zwiftpower.com/). I'd spent a good chunk of last summer figuring out how to finally get this working reliably and it was almost in good
 enough shape to be presentable on its own.
 
 So, one holiday day and a late Friday evening later, I had the code extracted, a wrapper script created to use it and a new library [published on Pypi](https://pypi.org/project/zpdatafetch/).
