@@ -18,19 +18,18 @@ avatar: https://avatars.githubusercontent.com/u/8387092?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: doug@mhost.com
   facebook:
   flickr:
   github: puckdoug
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/morrisdoug/
   pinterest:
   rss: x # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCMVYg5F8OXKPN_qkwPvHLZg # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
