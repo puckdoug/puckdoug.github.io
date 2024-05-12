@@ -2,7 +2,7 @@
 layout: post
 title: A first Python package
 tags: development
-categories: zwift, software
+categories: zwift software python
 ---
 
 We had a day off on Thursday this week - Ascension day in English and Auffahrt in German. This also meant that almost no one was working on Friday, even though I did. So the day was quiet and I finished a bit early in the afternoon.
